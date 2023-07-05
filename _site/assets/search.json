@@ -6,10 +6,10 @@
     
     
       {
-        "title": "Welcome to Jekyll!",
-        "excerpt": "You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.\n",
-        "content": "You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.\n\nTo add new posts, simply add a file in the _posts directory that follows the convention YYYY-MM-DD-name-of-post.ext and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.\n\nJekyll also offers powerful support for code snippets:\n\ndef print_hi(name)\n  puts \"Hi, #{name}\"\nend\nprint_hi('Tom')\n#=&gt; prints 'Hi, Tom' to STDOUT.\n\nCheck out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk.\n\n",
-        "url": "/jekyll/update/2023/07/04/welcome-to-jekyll.html"
+        "title": "Creating This Site!",
+        "excerpt": "I made this site for fun as a test to myself. I have learned the jekyll interface from scratch and used it to generate the static pages you are viewing. Using jekyll and hosting through GitHub Pages have both been pretty intuitive, here are the steps I took if you want to do it yourself:\n\n  Downloaded Jekyll following docs\n  Followed Quickstart and launched localhost starting website\n  Examined interface to understand how to use it – Notice the intuitive use of markdown and file structure\n  Set up Visual Studio Code and uploaded the Quickstart to Github\n  Set up GitHub Pages\n  Found a theme I liked – alembic – and followed their extended interface\n  Launch and Continued Working\n\n\nCheck out the Jekyll docs for the basics of building a similar website. Also see Jekyll’s GitHub repo.\n\n",
+        "content": "I made this site for fun as a test to myself. I have learned the jekyll interface from scratch and used it to generate the static pages you are viewing. Using jekyll and hosting through GitHub Pages have both been pretty intuitive, here are the steps I took if you want to do it yourself:\n\n  Downloaded Jekyll following docs\n  Followed Quickstart and launched localhost starting website\n  Examined interface to understand how to use it – Notice the intuitive use of markdown and file structure\n  Set up Visual Studio Code and uploaded the Quickstart to Github\n  Set up GitHub Pages\n  Found a theme I liked – alembic – and followed their extended interface\n  Launch and Continued Working\n\n\nCheck out the Jekyll docs for the basics of building a similar website. Also see Jekyll’s GitHub repo.\n\n",
+        "url": "/webdev/2023/07/04/Creating-This-Site!/"
       },
     
   
@@ -18,8 +18,29 @@
   {
     "title": "About",
     "excerpt": "\n",
-    "content": "\n  “Nothing is at last sacred but the integrity of your own mind”\n  \n    Ralph Waldo Emerson\n  \n\n\nThis website was built using jekyll\n\n",
+    "content": "\n  “Nothing is at last sacred but the integrity of your own mind”\n  \n    Ralph Waldo Emerson\n  \n\n\nThis website was built using jekyll and alembic\n\n",
     "url": "/about/"
+  },
+  
+  {
+    "title": "Categories",
+    "excerpt": "Category index\n",
+    "content": "\n",
+    "url": "/categories/"
+  },
+  
+  {
+    "title": "Welcome",
+    "excerpt": "Hi! I believe that together, in freedom and hope, we can achieve greatness. In this site I’ll put my thoughts and projects to document myself and work to join the beautiful free internet.\n",
+    "content": "Hi! I believe that together, in freedom and hope, we can achieve greatness. In this site I’ll put my thoughts and projects to document myself and work to join the beautiful free internet.\n",
+    "url": "/"
+  },
+  
+  {
+    "title": "Search",
+    "excerpt": "Search for a page or post you’re looking for\n",
+    "content": "{% include site-search.html %}\n",
+    "url": "/search/"
   }
   
 ]

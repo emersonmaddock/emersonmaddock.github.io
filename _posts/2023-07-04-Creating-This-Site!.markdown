@@ -2,7 +2,7 @@
 layout: post
 title:  "Creating This Site!"
 date:   2023-07-04 09:04:58 -0400
-categories: webdev
+categories: projects webdev
 ---
 I made this site for fun as a test to myself. I have learned the jekyll interface from scratch and used it to generate the static pages you are viewing. Using jekyll and hosting through GitHub Pages have both been pretty intuitive, here are the steps I took if you want to do it yourself:
 1. Downloaded Jekyll following [docs][jekyll-docs]

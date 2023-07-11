@@ -6,10 +6,24 @@
     
     
       {
+        "title": "Building a Weather Balloon!",
+        "excerpt": "Today we launched a weather balloon! Earlier this year I discovered that weather balloons are vital parts of exploring the upper atmosphere and beginning of space, so I set out to build my own! So, in this project I built an Arduino data recorder that recorded GPS, elevation, and temperature of the payload. I also designed and constructed the weather balloon itself. Some key challenges I faced were in creating a functional NEMA parser for my gps model and correcting the pin-outs from the sample design. Below are some pictures of the final product:\n \nThis test above is a tethered test which I performed to test my design and gather data. I chose not to release the balloon due to the difficulties of recovery, especially from my launch site on the East Coast, where the balloon is highly likely to end up in the Atlanic. With that outline finished, here are the steps I took in my project:\n\n  Learned about weather balloons and accessible student space exploration through an MIT online lecture.\n  Researched weather balloon applications, regulations, and existing content\n  Contacted and Called Expert David Paterson to learn about the realities of weather balloon launches\n  Developed a plan and Bought materials\n  Constructed Aurdino prototype basing my design on this existing schematic\n  Built the Weather Balloon on-site and Launched!\n\n\nIt was an awesome experience and I would recommend trying it yourself!\n",
+        "content": "Today we launched a weather balloon! Earlier this year I discovered that weather balloons are vital parts of exploring the upper atmosphere and beginning of space, so I set out to build my own! So, in this project I built an Arduino data recorder that recorded GPS, elevation, and temperature of the payload. I also designed and constructed the weather balloon itself. Some key challenges I faced were in creating a functional NEMA parser for my gps model and correcting the pin-outs from the sample design. Below are some pictures of the final product:\n \nThis test above is a tethered test which I performed to test my design and gather data. I chose not to release the balloon due to the difficulties of recovery, especially from my launch site on the East Coast, where the balloon is highly likely to end up in the Atlanic. With that outline finished, here are the steps I took in my project:\n\n  Learned about weather balloons and accessible student space exploration through an MIT online lecture.\n  Researched weather balloon applications, regulations, and existing content\n  Contacted and Called Expert David Paterson to learn about the realities of weather balloon launches\n  Developed a plan and Bought materials\n  Constructed Aurdino prototype basing my design on this existing schematic\n  Built the Weather Balloon on-site and Launched!\n\n\nIt was an awesome experience and I would recommend trying it yourself!\n",
+        "url": "/projects/electronics/2021/08/15/Building-a-Weather-Balloon!/"
+      },
+    
+      {
         "title": "Creating This Site!",
         "excerpt": "I made this site for fun as a test to myself. I have learned the jekyll interface from scratch and used it to generate the static pages you are viewing. Using jekyll and hosting through GitHub Pages have both been pretty intuitive, here are the steps I took if you want to do it yourself:\n\n  Downloaded Jekyll following docs\n  Followed Quickstart and launched localhost starting website\n  Examined interface to understand how to use it – Notice the intuitive use of markdown and file structure\n  Set up Visual Studio Code and uploaded the Quickstart to Github\n  Set up GitHub Pages\n  Found a theme I liked – alembic – and followed their extended interface\n  Launch and Continued Working\n\n\nCheck out the Jekyll docs for the basics of building a similar website. Also see Jekyll’s GitHub repo.\n\n",
         "content": "I made this site for fun as a test to myself. I have learned the jekyll interface from scratch and used it to generate the static pages you are viewing. Using jekyll and hosting through GitHub Pages have both been pretty intuitive, here are the steps I took if you want to do it yourself:\n\n  Downloaded Jekyll following docs\n  Followed Quickstart and launched localhost starting website\n  Examined interface to understand how to use it – Notice the intuitive use of markdown and file structure\n  Set up Visual Studio Code and uploaded the Quickstart to Github\n  Set up GitHub Pages\n  Found a theme I liked – alembic – and followed their extended interface\n  Launch and Continued Working\n\n\nCheck out the Jekyll docs for the basics of building a similar website. Also see Jekyll’s GitHub repo.\n\n",
-        "url": "/webdev/2023/07/04/Creating-This-Site!/"
+        "url": "/projects/webdev/2023/07/04/Creating-This-Site!/"
+      },
+    
+      {
+        "title": "EWB Water Project",
+        "excerpt": "This summer I had the opportunity to travel abroad to Rwanda to build a water distribution system in a small village called Rubona. In Rwanda, I drafted design solutions on-the-fly and communicated desipte language barriers, not to mention the personal impacts of the local culture and landscape. My particular role focuses on the structure we are building – a pipeline and tank to serve the community. Through this role I learned how to add value to pre-existing projects by understanding the existing project base and learning the skills to move the project forward. For example, I developed AutoCAD proficiency to work with the drawings efficiently and clearly. Below are some pictures from the trip:\n \n\nThank you to EPICS at Purdue for this amazing experience and to all the team members who made this project possible!\n",
+        "content": "This summer I had the opportunity to travel abroad to Rwanda to build a water distribution system in a small village called Rubona. In Rwanda, I drafted design solutions on-the-fly and communicated desipte language barriers, not to mention the personal impacts of the local culture and landscape. My particular role focuses on the structure we are building – a pipeline and tank to serve the community. Through this role I learned how to add value to pre-existing projects by understanding the existing project base and learning the skills to move the project forward. For example, I developed AutoCAD proficiency to work with the drawings efficiently and clearly. Below are some pictures from the trip:\n \n\nThank you to EPICS at Purdue for this amazing experience and to all the team members who made this project possible!\n",
+        "url": "/projects/purdue/2023/07/11/EWB-Water-Project/"
       },
     
   
@@ -34,6 +48,13 @@
     "excerpt": "Hi! I believe that together, in freedom and hope, we can achieve greatness. In this site I’ll put my thoughts and projects to document myself and work to join the beautiful free internet.\n",
     "content": "Hi! I believe that together, in freedom and hope, we can achieve greatness. In this site I’ll put my thoughts and projects to document myself and work to join the beautiful free internet.\n",
     "url": "/"
+  },
+  
+  {
+    "title": "Projects",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "/projects/"
   },
   
   {

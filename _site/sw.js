@@ -1,8 +1,8 @@
-const version = '20230705160941';
+const version = '20230711170744';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/webdev/2023/07/04/Creating-This-Site!/","/404/","/about/","/blog/","/categories/","/","/manifest.json","/assets/search.json","/search/","/assets/styles.css","/redirects.json","/feed.xml","/sitemap.xml","/robots.txt","/assets/logos/logo@32px.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/projects/purdue/2023/07/11/EWB-Water-Project/","/projects/webdev/2023/07/04/Creating-This-Site!/","/projects/electronics/2021/08/15/Building-a-Weather-Balloon!/","/404/","/about/","/blog/","/categories/","/","/manifest.json","/projects/","/assets/search.json","/search/","/assets/styles.css","/redirects.json","/feed.xml","/sitemap.xml","/robots.txt","/assets/logos/logo@32px.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

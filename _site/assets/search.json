@@ -46,14 +46,14 @@
   {
     "title": "Welcome",
     "excerpt": "Hi! I believe that together, in freedom and hope, we can achieve greatness. In this site I’ll put my thoughts and projects to document myself and work to join the beautiful free internet.\n",
-    "content": "Hi! I believe that together, in freedom and hope, we can achieve greatness. In this site I’ll put my thoughts and projects to document myself and work to join the beautiful free internet.\n",
+    "content": "Hello! My name is Emerson Maddock. I am a Computer Engineering Student at Purdue University! Click here or on the Projects tab to see some of the projects I have done.\n\nA Little About Me\n\nI have a wide range of interests including music and theater, computing and science, and geopolitics and economics. In my free time I love to play guitar, sing, read, and learn. A few recommendations of mine are …\n\n\n  Music: Dave Matthews Band (Crash), Foo Fighters (Greatest Hits), Newsies Soundtrack\nBooks: Where’s My Flying Car, The Changing World Order, Isaac Asimov (Foundation)\nVideo: The Great War, CGP Grey, Crash Course\n\n\nI love to travel, and after working and saving I backpacked through Europe Summer 2022.\n\n \n\nThis backpacking trip was a great way to see the continent and test my independence! In the future I plan on studying abroad in Europe and perhaps even move to the UK.\n",
     "url": "/"
   },
   
   {
     "title": "Projects",
     "excerpt": "\n",
-    "content": "\n",
+    "content": "EWB Water Project in Rwanda\n\nIn this project I paticipated in the Engineering design process for the construction of a water distribution system in the rural community of Rubona Rwanda, right outside of the capital of the country, Kigali. I had the opportunity to travel to Rwanda Summer 2023 for two weeks to implement Phase 1 of our system.During this project, I designed and modeled the water system, surveyed and assessed future feasibility, and explained our project to community members. The cultural immersion and professional work was incredibly impactful. To read further on this trip, click here.\n\nCreating Jeykll Static Site\n\nThis site itself is a testament to my programming skills and ability to learn independently. I created this site using GitHub Pages hosting and the Jekyll static site generator. I learned how to use DNS hosting, HTML/CSS/JavaScript, and the Jekyll interface, while also developing confidence in learning new languages and interfaces. To read on how I specifically built this site, click here\n\nWeather Balloon\n\nI designed, built, and launched a weather balloon to measure atmospheric data. In this project, I built my own data recorder using an Arduino and several sensors. I built off of an existing code base, rewriting the NEMA parser to work with my GPS unit. I also designed the weather balloon, calculating weight and lift and designing for high atmospheric conditions. Through this project I developed my C coding skills and engineering ability. To read more click here.\n",
     "url": "/projects/"
   },
   
